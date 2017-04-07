@@ -1,0 +1,1 @@
+java -cp H:/work/maven/repository/org/hsqldb/hsqldb/2.3.4/hsqldb-2.3.4.jar org.hsqldb.util.DatabaseManager 

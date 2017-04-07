@@ -1,0 +1,28 @@
+#footer {
+	position: fixed;
+	bottom: 0;
+	right: 0;
+	width: 100%;
+	height: 100px;
+}
+
+#footerContainer {
+	position: relative;
+	width: 100%;
+	height: 100px;
+}
+
+#imginthefooter {
+	background: url(../images/add-button.jpg) no-repeat;
+	 background-size: 60px 60px;
+	height: 60px;
+	float: right;
+    width: 60px;
+    right: 100px;  
+    position: absolute;
+}
+
+​​​​​​​​​#imginthefooter:hover {
+	cursor: pointer;
+	cursor: hand;
+}
