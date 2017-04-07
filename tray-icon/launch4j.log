@@ -1,0 +1,13 @@
+
+
+Version:	3.8
+CmdLine:	H:\work\workspace\tray-icon\rssalert-app.exe --l4j-debug
+WOW64:		yes
+Working dir:	H:\work\workspace\tray-icon\.
+Bundled JRE:	C:\Program Files (x86)\Java\jre1.8.0_111
+Check launcher:	C:\Program Files (x86)\Java\jre1.8.0_111\bin\javaw.exe (OK)
+Add classpath:	.
+Launcher:	C:\Program Files (x86)\Java\jre1.8.0_111\bin\javaw.exe
+Launcher args:	-classpath "H:\work\workspace\tray-icon\rssalert-app.exe;." org.eclipse.jdt.internal.jarinjarloader.JarRsrcLoader
+Args length:	113/32768 chars
+Exit code:	0
